@@ -1,4 +1,4 @@
-package PACKAGE_NAME;
-
 public class MainApp {
+    public static void main(String... args){
+    }
 }
